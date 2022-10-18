@@ -19,10 +19,6 @@
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn">
   </a>
   
-  </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/total?color=violet">
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/total?color=green">
-  </a>
    </a>
    <a href="https://github.com/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/network">
     <img src="https://img.shields.io/badge/Plataform-Linux-blue">
