@@ -34,6 +34,8 @@
   </tr>
 </table>
  
+ [Linux Operating System (Ubuntu)](https://github.com/BrianMarquez3/Linux-Course)
+ 
 ## Tabla de contenidos
 
 | Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
