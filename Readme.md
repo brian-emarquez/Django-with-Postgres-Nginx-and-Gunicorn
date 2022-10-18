@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn.svg?style=flat" alt="Forks">
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?color=gren&label=Version&logo=nginx">
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?color=red&label=Version&logo=nginx">
   </a>
   
   </a>
@@ -25,9 +24,8 @@
   </a><br>
    <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?color=darkrose&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?style=for-the-badge">
-</P>
+</p>
 
-  
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
