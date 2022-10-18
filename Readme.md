@@ -1,34 +1,34 @@
-<h2 align="center"> Learn PHP - MySQL Beginner To Advanced | PHP - MySQL Training 🐘&nbsp;</h2>
+<h2 align="center"> Django with Postgres Nginx and Gunicorn </h2>
 
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/PHP-Course?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn=red">
   </a>
-  <a href="https://github.com/BrianMarquez3/PHP-Course/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/PHP-Course.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/PHP-Course.svg?style=flat" alt="Forks">
+  <a href="https://github.com/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=gren&label=Version&logo=php">
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/PHP-Course?color=red&label=Version&logo=php">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/PHP-Course">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?color=gren&label=Version&logo=nginx">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?color=red&label=Version&logo=nginx">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=violet">
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/PHP-Course/total?color=green">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/total?color=green">
   </a>
    </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+   <a href="https://github.com/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn/network">
+    <img src="https://img.shields.io/badge/Plataform-Linux-blue">
   </a><br>
-   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/PHP-Course?color=darkrose&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/PHP-Course?style=for-the-badge">
+   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?color=darkrose&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Django-with-Postgres-Nginx-and-Gunicorn?style=for-the-badge">
 </P>
 
   
@@ -94,3 +94,5 @@
         <td>G</td>
     </tr>
 </table>
+
+---
