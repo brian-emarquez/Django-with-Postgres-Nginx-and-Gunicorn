@@ -48,12 +48,13 @@
 
 ## Installing Nginx
 
+Official Debian/Ubuntu packages - [Install](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+
 ```bash
 sudo apt update
 sudo apt install nginx
+nginx -v
 ```
-
-
 
 
 ## Spotify Python
