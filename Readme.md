@@ -62,7 +62,7 @@ nginx -v
 
 
 ## Paypal
-☕ Hacer una donación [Paypal](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
+☕ Make a Donation [Paypal](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 ---
 
