@@ -34,7 +34,7 @@
   </tr>
 </table>
  
-Deploy is back! - [Documentation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
+Deploy is back! - [Documentation Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
  
 ## Tabla de contenidos
 
