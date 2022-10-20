@@ -34,11 +34,10 @@
   </tr>
 </table>
  
- [Linux Operating System (Ubuntu)](https://github.com/BrianMarquez3/Linux-Course)
  
 ## Tabla de contenidos
 
-| Numeration   | Check  |Topic          | Quantization     |    Edit Gitpot    |    Downloads    |  link   |
+| Numeration   | Check  |Topic          | Information     |    Edit Gitpot    |    Downloads    |  link   |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  001   |:heavy_check_mark: | [Installing Nginx](#Installing-Nginx)   |   :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
@@ -52,13 +51,16 @@ sudo apt install nginx
 nginx -v
 ```
 
+---
+
+ 🔗 [Linux Operating System Repository](https://github.com/BrianMarquez3/Linux-Course)
 
 ## Spotify Python
-🎵 Music Python [List on Spotify 🎤](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9?si=eee72999dd8e43bc)
+🎵 Play List [List on Spotify 🎤](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9?si=eee72999dd8e43bc)
 
----
+
 ## Paypal
-☕ Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+☕ Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 ---
 
