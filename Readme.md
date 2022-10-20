@@ -34,6 +34,7 @@
   </tr>
 </table>
  
+Deploy is back! - [Documentation](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-es)
  
 ## Tabla de contenidos
 
@@ -54,13 +55,14 @@ nginx -v
 ---
 
  🔗 [Linux Operating System Repository](https://github.com/BrianMarquez3/Linux-Course)
+ 
 
 ## Spotify Python
-🎵 Play List [List on Spotify 🎤](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9?si=eee72999dd8e43bc)
+🎵 Play List [Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9?si=eee72999dd8e43bc) 🎤
 
 
 ## Paypal
-☕ Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
+☕ Hacer una donación [Paypal](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
 
 ---
 
