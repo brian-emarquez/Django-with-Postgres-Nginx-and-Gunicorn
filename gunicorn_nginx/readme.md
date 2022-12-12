@@ -1,7 +1,7 @@
 
 ## Example Deploy
 
-referencia [Cómo configurar Django con Postgres, Nginx y Gunicorn en Ubuntu](https://www.digitalocean.com/community/tutorials/como-configurar-django-con-postgres-nginx-y-gunicorn-en-ubuntu-18-04-es)
+//Tutorial//  [Cómo configurar Django con Postgres, Nginx y Gunicorn en Ubuntu](https://www.digitalocean.com/community/tutorials/como-configurar-django-con-postgres-nginx-y-gunicorn-en-ubuntu-18-04-es)
 
 ## 1
 
