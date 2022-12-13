@@ -57,6 +57,10 @@ WantedBy=multi-user.target
 ## 3
 
 ```bash
+sudo nano /etc/nginx/sites-available/myproject
+```
+
+```bash
 server {
     listen 80;
     server_name 161.97.162.17;
